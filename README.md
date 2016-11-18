@@ -18,7 +18,8 @@ Step 2:
 		gcloud beta auth application-default login
 
 Step 3:
-	Install the project dependencies. in 
+	Install the project dependencies.
+	
 	pip install -r ./google-client-api/requirements.txt
 	
 Step 4:
