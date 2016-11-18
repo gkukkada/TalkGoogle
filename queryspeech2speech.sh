@@ -4,7 +4,7 @@ echo "Recording… Press Ctrl+C to Stop."
 rec --encoding signed-integer --bits 16 --channels 1 --rate 16000 audio.wav > /dev/null 2>&1
 
 echo "Processing speech to text…"
-python /home/sandy/api-client/transcribe.py audio.wav > stt.txt
+python ./google-client-api/transcribe.py audio.wav > stt.txt
 
 echo -n "You Said: "
 cat stt.txt
