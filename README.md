@@ -3,7 +3,7 @@
 
 Step 1:
 
-	Get a Account on Google CloudPlatform. Do not bite your nails. Google CloudPlatform provides a free 60 days trail. you can unsubscribe anytime. And they will not charge you with your input.
+	Get a Account on Google CloudPlatform. Don't worry Google CloudPlatform provides a free 60 days trail. you can unsubscribe anytime. They will not charge you without your input.
 	
 	Click on the below link and follow the instuctions.
 	Cloud Speech API BETA 
